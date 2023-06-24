@@ -1,17 +1,17 @@
 ### @hideIteration true
 # TechkidsCAMP
 
-## くり返しってなにかな？ @unplugged
+## くりかえしってなにかな？ @unplugged
 
-プログラミングでは、めんどうな作業をくり返すことができるよ！
-「くり返し」を使えば、同じ作業を100回でも1000回でもやらせることができるよ！
+プログラミングでは、めんどうなさぎょうをくりかえすことができるよ！
+「くりかえし」をつかえば、おなじさぎょうを100かいでも1000かいでもやらせることができるよ！
 
-## エージェントにくり返させてみよう！
+## エージェントにくりかえさせてみよう！
 
-エージェントに「くり返し」のプログラムをやらせるには、``||agent.くり返し 4回||``ブロックを使うよ！
-ブロックの中の数字を変えて、くり返す回数を決めることができるよ！
+エージェントに「くりかえし」のプログラムをやらせるには、``||agent.くりかえし 4かい||``ブロックをつかうよ！
+ブロックの中のすうじをかえて、くりかえすかいすうをきめることができるよ！
 
-右下の![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)を押して、「run」とチャット欄に入力してプログラムを動かしてみよう！
+みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおして、「run」とチャットらんににゅうりょくしてプログラムをうごかしてみよう！
 
 ```template
 player.onChat("run", function () {

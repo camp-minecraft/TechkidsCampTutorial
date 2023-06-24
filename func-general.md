@@ -1,8 +1,8 @@
 ### @hideIteration true
 # TechkidsCAMP
 
-## ここから先は、自分でプログラムを作ってみよう！
-分からないことがあったらメンターさんを呼んでね！
+## ここからさきは、じぶんでプログラムをつくってみよう！
+わからないことがあったらメンターさんをよんでね！
 
 ```ghost
 player.onChat("run", function (num1) {

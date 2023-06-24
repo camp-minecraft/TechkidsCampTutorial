@@ -4,7 +4,7 @@
 ## エージェントをつかって、ブロックをはかいしよう！
 
 エージェントをつかってブロックをはかいするには、
-``||agent.エージェントに前を破壊させる||``ブロックをつかうよ！
+``||agent.エージェントにまえをはかいさせる||``ブロックをつかうよ！
 
 みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしたあと、tキーをおして「run」とチャットににゅうりょくしてプログラムをうごかしてみよう！
 

@@ -1,10 +1,10 @@
 ### @hideIteration true
 # TechkidsCAMP
 
-## エージェントを動かしてみよう！
+## エージェントをうごかしてみよう！
 
 ![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/move-tutorial.gif)
-エージェントをダイヤモンドブロックの場所まで移動させよう！
+エージェントをみずいろのブロックのばしょまでいどうさせよう！
 
 ![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/move-reset.gif)
-スタートのとなりのボタンを押せばリセットできるよ！
+スタートのとなりのボタンをおせばリセットできるよ！

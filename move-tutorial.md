@@ -1,17 +1,17 @@
 ### @hideIteration true
 # TechkidsCAMP
 
-## ダンジョンを探検！ @unplugged
+## ダンジョンをたんけん！ @unplugged
 
-プログラムを使ってエージェントに命令して、ダンジョンをクリアしよう！
-まずはエージェントを動かす方法を学んでみよう！
+プログラムをつかってエージェントにめいれいして、ダンジョンをクリアしよう！
+まずはエージェントをうごかすほうほうをまなんでみよう！
 
-## エージェントを動かしてみよう！
+## エージェントをうごかしてみよう！
 
-``||agent.エージェントを前に１ブロック移動させる||``ブロックは、エージェントを動かすことができるよ！
-右下の![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)を押して、「run」とチャット欄に入力してプログラムを動かしてみよう！
+``||agent.エージェントをまえに１ブロックいどうさせる||``ブロックは、エージェントをうごかすことができるよ！
+みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおして、「run」とチャットらんににゅうりょくしてプログラムをうごかしてみよう！
 
-プログラムを動かすにはどのようにすればよかったかな？
+プログラムをうごかすにはどのようにすればよかったかな？
 
 ```template
 player.onChat("run", function () {

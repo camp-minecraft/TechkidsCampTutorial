@@ -1,13 +1,13 @@
 ### @hideIteration true
 # TechkidsCAMP
 
-## エージェントを使って、ブロックを設置しよう！
+## エージェントをつかって、ブロックをせっちしよう！
 
-エージェントを使ってブロックをこわすには、
-``||agent.エージェントに前を破壊させる||``ブロックを使うよ！
-方向を選んで、エージェントがどの方向のブロックを破壊するか決めよう！
+エージェントをつかってブロックをこわすには、
+``||agent.エージェントにまえをはかいさせる||``ブロックをつかうよ！
+ほうこうをえらんで、エージェントがどのほうこうのブロックをはかいするかきめよう！
 
-右下の![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)を押して、「run」とチャット欄に入力してプログラムを動かしてみよう！
+みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおして、「run」とチャットらんににゅうりょくしてプログラムをうごかしてみよう！
 
 ```template
 player.onChat("run", function () {
