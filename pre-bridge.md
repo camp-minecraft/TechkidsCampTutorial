@@ -1,7 +1,7 @@
 ### @hideIteration true
 # TechkidsCAMP
 
-## エージェントにはしをかけてもらおう！
+## エージェントにトンネルをほってもらおう！
 
 みぎしたの![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png)をおしたあと、tキーをおして「run」とチャットににゅうりょくしてプログラムをうごかしてみよう！
 
